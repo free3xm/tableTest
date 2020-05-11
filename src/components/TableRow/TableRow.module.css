@@ -1,0 +1,10 @@
+.cellInfo {
+  text-align: center;
+  padding: 0;
+}
+
+.cellInfo > button {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}

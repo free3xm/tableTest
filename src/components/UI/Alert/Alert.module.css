@@ -1,0 +1,10 @@
+.customAlert {
+  min-width: 400px;
+  width: fit-content;
+  max-width: 80vw;
+  position: absolute;
+  top: 90px;
+  left: 50%;
+  text-align: center;
+  transform: translateX(-50%);
+}

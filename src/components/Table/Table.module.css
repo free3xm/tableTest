@@ -1,0 +1,15 @@
+.table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: auto;
+}
+
+.table td {
+  vertical-align: middle !important;
+}
+
+.cellInfo {
+  text-align: center;
+  height: 90px;
+  padding: 0;
+}
